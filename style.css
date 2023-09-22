@@ -11,9 +11,9 @@ body {
 }
 
 .main-content {
-  width: 425px;
-  height: 677px;
-  background: URL(/patrick-hendry-oS5O3gVMnpA-unsplash\ \(1\).jpg);
+  width: min(100vw, 425px);
+  height: min(100vh, 677px);
+  background: URL(https://images.unsplash.com/photo-1573491473930-5a14ebedbae8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80);
   background-size:cover;
   color: rgb(255, 255, 255);
   font-family: 'Barlow', sans-serif;
