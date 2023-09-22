@@ -52,7 +52,7 @@ i.fa-xmark {
   color: black;
   opacity: 0;
   transition: opacity 0.5s;
-  transform: scale(1.5);
+  transform: scale(2);
 }
 
 .circle {
